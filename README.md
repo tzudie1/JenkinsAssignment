@@ -1,7 +1,7 @@
 # JenkinsAssignment
 Objective: Automate the building of your application using Jenkins.
 
-Begin this assignment by installing Jenkins on your public Windows instance in you AWS account
+Begin this assignment by installing Jenkins on your public Windows instance in you AWS account.
 
 Part 1.
 In your GitHub account, configure Integrations & Services to allow Jenkins access to the repository you created last week.
