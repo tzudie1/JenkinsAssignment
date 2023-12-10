@@ -1,5 +1,5 @@
 # JenkinsAssignment
-Objective: Automate the building of your application using Jenkins.
+Objective: Automate the building of your application using Jenkins.ok
 
 Begin this assignment by installing Jenkins on your public Windows instance in you AWS account.
 
